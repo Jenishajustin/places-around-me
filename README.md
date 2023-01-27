@@ -174,26 +174,26 @@ They also offer general instrument maintenance and water damage repair.
 </html>
 ```
 ## Output:
-![model]
+![map](https://user-images.githubusercontent.com/119405070/215110330-b691eec8-cc25-4c0f-8f3b-1e237698bda8.png)
 <br>
 
-![model]
+![map1](https://user-images.githubusercontent.com/119405070/215110415-308482fa-62c9-4501-a362-c88e1cc19bfa.png)
 <br>
 
-![model]
+![map2](https://user-images.githubusercontent.com/119405070/215110468-ecc5066a-74da-43ff-b923-292e1c88c4a1.png)
 <br>
 
-![model]
+![map3](https://user-images.githubusercontent.com/119405070/215110549-ba50b4d5-8112-449b-b2d7-83d8e6f25138.png)
 <br>
 
-![model]
+![map4](https://user-images.githubusercontent.com/119405070/215110592-bf76dfbf-f0f8-4ba8-b588-ea170ecaf9b3.png)
 <br>
 
-![model]
+![map5](https://user-images.githubusercontent.com/119405070/215110651-74e00c29-baa7-4763-ad16-5afa54994da8.png)
 <br>
 
 ## HTML Validator:
-![model]
+![mapvalid](https://user-images.githubusercontent.com/119405070/215110701-fde00f03-d592-4557-bf0e-0290fc0d09eb.png)
 <br>
 
 ## Result:
