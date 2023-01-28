@@ -14,8 +14,9 @@ Write the needed HTML code.
 Run the Django server and execute the HTML files.
 
 ## Code:
-places.html
 ```html
+places.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,9 +41,10 @@ places.html
 </center>
 </body>
 </html>
-```
+<br>
+
 temple.html
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,9 +72,10 @@ The goddess is mainly worshipped for prevention and curing Chicken pox.
 </p>
 </body>
 </html>
-```
+<br>
+
 football.html
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -97,9 +100,10 @@ This place is famous for Football Players and is a favourite for youths and kids
 </p>
 </body>
 </html>
-```
+<br>
+
 powerstation.html
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,9 +129,10 @@ A substation may include transformers to change voltage levels between high tran
 </p>
 </body>
 </html>
-```
+<br>
+
 Gkids.html
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -148,9 +153,10 @@ Green kids  nursery school creates an environment of openness and learning where
 </p>
 </body>
 </html>
-```
+<br>
+
 Instrument.html
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
